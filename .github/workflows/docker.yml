@@ -28,6 +28,6 @@ jobs:
      - name: docker push
        run: |
          docker push mezbaur/csharp:1.0.0
-         docker push aimvector/nodejs:1.0.0
-         docker push aimvector/golang:1.0.0
-         docker push aimvector/python:1.0.0
+         docker push mezbaur/nodejs:1.0.0
+         docker push mezbaur/golang:1.0.0
+         docker push mezbaur/python:1.0.0
