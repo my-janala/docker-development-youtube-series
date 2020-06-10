@@ -31,3 +31,4 @@ jobs:
          docker push mezbaur/nodejs:1.0.0
          docker push mezbaur/golang:1.0.0
          docker push mezbaur/python:1.0.0
+
